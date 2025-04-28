@@ -16,7 +16,7 @@
 }
 
 .button:hover {
-    -fx-background-color: #987dd9;
+    -fx-background-color: #bdc0da;
 }
 
 .button:pressed {
@@ -89,7 +89,7 @@
 
 /* Botones específicos */
 #regresarButton, #reiniciarButton, #adivinarPalabra {
-    -fx-background-color: #987dd9;
+    -fx-background-color: #bdc0da;
     -fx-text-fill: white;
     -fx-font-size: 14px;
     -fx-border-radius: 5;
@@ -97,9 +97,9 @@
 }
 
 #regresarButton:hover, #reiniciarButton:hover, #adivinarPalabra:hover {
-    -fx-background-color: #987dd9;
+    -fx-background-color: #5731af;
 }
 
 #regresarButton:pressed, #reiniciarButton:pressed, #adivinarPalabra:pressed {
-    -fx-background-color: #987dd9;
+    -fx-background-color: #bdc0da;
 }
